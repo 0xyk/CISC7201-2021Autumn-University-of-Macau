@@ -11,61 +11,61 @@
 
 ## Assignments & Practice
 **Practice 01**
-> 01 Hello World!
-> 02 Sum of 5 numbers
-> 03 Find two integers
-> 04 Printing a Diamond
-> 05 Right triangle
-> 06 Find top-k elements
-> 07 Palindrome number
-> 08 123
-> 09 GPA
-> 10 function call practice
+> 1. Hello World!
+> 2. Sum of 5 numbers
+> 3. Find two integers
+> 4. Printing a Diamond
+> 5. Right triangle
+> 6. Find top-k elements
+> 7. Palindrome number
+> 8. 123
+> 9. GPA
+> 10. Function call practice
 
 **Assignment 01**
-> 00 Rectangle Area
-> 01 Calculate the cone volume using default value
-> 02 Average of two classes
-> 03 List overlap
-> 04 Sum of a special sequence
-> 05 Prime number
-> 06 Fibonacci sequence
-> 07 Single number
-> 08 Multiplication table
-> 09 Reverse query
+> 0. Rectangle Area
+> 1. Calculate the cone volume using default value
+> 2. Average of two classes
+> 3. List overlap
+> 4. Sum of a special sequence
+> 5. Prime number
+> 6. Fibonacci sequence
+> 7. Single number
+> 8. Multiplication table
+> 9. Reverse query
 
 **Assignment 02**
-> 00 Find all prime numbers in a range
-> 01 Number of digits
-> 02 Moving average
-> 03 Arrange the string
-> 04 Cut the string
-> 05 Reverse of an integer
-> 06 Unique string
-> 07 Merge two lists
-> 08 Famous Joe
-> 09 Softmax
+> 0. Find all prime numbers in a range
+> 1. Number of digits
+> 2. Moving average
+> 3. Arrange the string
+> 4. Cut the string
+> 5. Reverse of an integer
+> 6. Unique string
+> 7. Merge two lists
+> 8. Famous Joe
+> 9. Softmax
 
 **Assignment 03**
-> 01 Use of Lambda function in python
-> 02 Convert two lists into the dictionary
-> 03 Add digits
-> 04 Remove all 'a'
-> 05 Find an insert position
-> 06 Even number of digits
-> 07 Happy number
-> 08 Roman to Integer (difficult)
-> 09 A recursive function
-> 10 Add all prime numbers
+> 1. Use of Lambda function in python
+> 2. Convert two lists into the dictionary
+> 3. Add digits
+> 4. Remove all 'a'
+> 5. Find an insert position
+> 6. Even number of digits
+> 7. Happy number
+> 8. Roman to Integer (difficult)
+> 9. A recursive function
+> 10. Add all prime numbers
 
 **Assignment 04**
-> 00 Number of daffodil
-> 01 Rotate matrix
-> 02 1 in binary
-> 03 Longest non-repeat substring
-> 04 Find the n-th number in a list
-> 05 N-th item in a list
-> 06 Duplicate number
+> 0. Number of daffodil
+> 1. Rotate matrix
+> 2. 1 in binary
+> 3. Longest non-repeat substring
+> 4. Find the n-th number in a list
+> 5. N-th item in a list
+> 6. Duplicate number
 
 **Assignment 05**
 > Mini Project 01: Crawl the shopping website using Selenium
@@ -83,7 +83,7 @@
 
 ## Midterm (Candidate's Recollection Edition)
 **Problems List**
-> 01 Printing a Trapezoid
-> 02 Proof of Work (PoW)
-> 03 Find Substrings
-> 04 Multiple-choice Questions, True-False Questions and Essay Questions
+> 1. Printing a Trapezoid
+> 2. Proof of Work (PoW)
+> 3. Find Substrings
+> 4. Multiple-choice Questions, True-False Questions and Essay Questions
